@@ -4,7 +4,7 @@
 **Öğrenci No:** 24 LITT 025  
 **Ders:** Veri Analizinde Bilgisayar Programlama 2
 
-🔗 **Canlı Rapor:** https://KULLANICI-ADI.github.io/superlig-analizi/
+🔗 **Canlı Rapor:** https://emres7h.github.io/superlig-analizi/
 
 > Yukarıdaki URL'yi GitHub kullanıcı adınla değiştir (örnek: `https://ahmetemresahin.github.io/superlig-analizi/`).
 
